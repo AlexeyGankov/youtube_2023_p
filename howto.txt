@@ -1,0 +1,12 @@
+Init Chrome login to site (login to site with specific profile)
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --user-data-dir="C:\python3\User Data"  --profile-directory="Profile 1"
+login to profile, check popsters
+Also, set default place for download files (F:\DWH\popsters_collector\data)
+
+Install selenium
+copy chromedriver.exe to the specific folder (python3 in our case)
+pip install selenium
+
+
+
+
