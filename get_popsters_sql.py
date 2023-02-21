@@ -1,6 +1,7 @@
 import sys
 import time
 import glob
+import os
 #import csv
 from sqlalchemy import create_engine
 import sqlalchemy
